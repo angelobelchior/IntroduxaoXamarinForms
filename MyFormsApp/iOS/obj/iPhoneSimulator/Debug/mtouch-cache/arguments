@@ -1,0 +1,35 @@
+# Version: 8.4.0.16 (80e9ff7)
+# [first argument, ignore] # /Users/apple/Projects/MyFormsApp/iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.16/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/apple/Projects/MyFormsApp/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/apple/Projects/MyFormsApp/iOS/bin/iPhoneSimulator/Debug/MyFormsAppiOS.app \
+	-r \
+	/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/MyFormsApp.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/apple/Projects/MyFormsApp/iOS/../packages/Xamarin.Forms.1.0.6186/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll \
+	-r \
+	/Users/apple/Projects/MyFormsApp/iOS/../packages/Xamarin.Forms.1.0.6186/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/apple/Projects/MyFormsApp/iOS/../packages/Xamarin.Forms.1.0.6186/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/apple/Projects/MyFormsApp/iOS/bin/iPhoneSimulator/Debug/MyFormsAppiOS.exe \

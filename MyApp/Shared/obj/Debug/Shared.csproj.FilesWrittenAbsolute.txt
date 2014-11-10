@@ -1,0 +1,9 @@
+/Users/apple/Projects/MyApp/Shared/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/apple/Projects/MyApp/Shared/bin/Debug/Shared.dll.mdb
+/Users/apple/Projects/MyApp/Shared/bin/Debug/Shared.dll
+/Users/apple/Projects/MyApp/Shared/obj/Debug/Shared.dll
+/Users/apple/Projects/MyApp/Shared/obj/Debug/Shared.dll.mdb
+/Users/apple/Projects/MyApp/Shared/bin/Debug/Newtonsoft.Json.dll
+/Users/apple/Projects/MyApp/Shared/bin/Debug/System.Net.Http.dll
+/Users/apple/Projects/MyApp/Shared/bin/Debug/System.Net.Http.Primitives.dll
+/Users/apple/Projects/MyApp/Shared/bin/Debug/System.Net.Http.Extensions.dll

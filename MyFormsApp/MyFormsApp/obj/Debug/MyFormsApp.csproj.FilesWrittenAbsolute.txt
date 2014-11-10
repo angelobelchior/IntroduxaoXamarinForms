@@ -1,0 +1,14 @@
+/Users/apple/Projects/MyFormsApp/MyFormsApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/MyFormsApp.dll.mdb
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/MyFormsApp.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/obj/Debug/MyFormsApp.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/obj/Debug/MyFormsApp.dll.mdb
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/Shared.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/Shared.dll.mdb
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/System.Net.Http.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/Newtonsoft.Json.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/bin/Debug/System.Net.Http.Primitives.dll
+/Users/apple/Projects/MyFormsApp/MyFormsApp/obj/Debug/MyFormsApp.UIXaml.xaml
+/Users/apple/Projects/MyFormsApp/MyFormsApp/obj/Debug/UIXaml.xaml.g.cs
