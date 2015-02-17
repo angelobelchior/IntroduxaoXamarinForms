@@ -1,4 +1,4 @@
-Link para o vídeo: https://www.youtube.com/watch?v=b7a0mJHav2U
+[![ScreenShot](http://img.youtube.com/vi/b7a0mJHav2U/0.jpg)](http:///www.youtube.com/embed/fPxWd5POn4E)
 
 Neste vídeo eu mostro como compartilhar UIs entre iOS, Android e WP usando XAML e C# com o **Xamarin.Forms**
 
